@@ -5,9 +5,6 @@ This project is to explore implementing conveyors in the Rust
 programming language.  This is inspired by many projects in the PGAS
 research community including UPC, OpenShmem, Bale, and Conveyors.
 
-**Note: This repository is currently private, please do not redistribute.**
-Open an 'issue' to get access for others.
-
 **Note: Expect rapid changes in code organization and interfaces, this is highly experimental.**
 
 ## Cray Build Instructions 
